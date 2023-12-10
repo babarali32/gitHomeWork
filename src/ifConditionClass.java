@@ -7,5 +7,6 @@ public class ifConditionClass {
             System.out.println(" play with pogu game");
         }
         System.out.println(" i am herer");
+        System.out.println("changes");
     }
 }
