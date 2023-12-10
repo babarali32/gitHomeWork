@@ -6,5 +6,6 @@ public class ifConditionClass {
         }else {
             System.out.println(" play with pogu game");
         }
+        System.out.println(" i am herer");
     }
 }
